@@ -27,7 +27,7 @@
             <kind>1</kind>
             <string>instance_create(x,y,obj_cage)
 
-timer = 900
+timer = 0
 </string>
           </argument>
         </arguments>
